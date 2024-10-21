@@ -12,10 +12,11 @@ export default {
     },
     extend: {
       colors: {
-        main: '#EDEDEB',
-        second: '#ADA661',
-        seconddark: '#6E6622',
-        third: '#5A4998',
+        main: '#9FA1B6',
+        second: '#D5D78E',
+        seconddark: '#95A194',
+        third: '#C7D1D3',
+        bright: '#F2F0EB',
         maindark: '#969694',
         maindarker: '#3F3F3D',
       },

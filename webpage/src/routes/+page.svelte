@@ -8,6 +8,6 @@
 </svelte:head>
 
 <div class="flex w-full">
-    <TitlePage title="Johannes Gabriel Sindlinger" />
+    <TitlePage title="JOHANNES GABRIEL SINDLINGER" />
 </div>
 

@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import TitlePage from "$lib/components/TitlePage.svelte";
+
+</script>
+<svelte:head>
+	<title>Johannes Gabriel Sindlinger</title>
+	<meta name="description" content="Webpage of Johannes Gabriel Sindlinger" />
+</svelte:head>
+
+<div class="flex w-full">
+    <TitlePage title="Johannes Gabriel Sindlinger" />
+</div>
+

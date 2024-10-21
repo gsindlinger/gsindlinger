@@ -8,7 +8,7 @@ Some people call me Johannes, some call me Gabriel – so choose your preferred 
 - 💻 Previously interned and worked at [iteratec GmbH](https://www.iteratec.com/), focusing on software development
 - 📊 Contributed to research on trend exploration in social networks ([TrendTracker](https://doi.org/10.1145/3625007.3627335)) presented at ASONAM 2023
 - 🚴‍♂️ Competitive mountain biker with multiple World Cup participations
-- 📫 How to reach me: [gabriel.sindlinger@gmx.net](mailto:gabriel.sindlinger@gmx.net)
+- 📫 How to reach me: [info@gsindlinger.com](mailto:info@gsindlinger.com)
 
 ## 🚀 Technologies & Tools
 - **Programming Languages**: Python, Java, JavaScript/TypeScript, SQL

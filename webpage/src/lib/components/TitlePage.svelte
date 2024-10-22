@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from "svelte";
     import { fly } from 'svelte/transition';
+    import img from '$lib/images/9-2F1A7637.jpg';
     export let title: string;
 
     
@@ -20,7 +21,7 @@
                 <h4 class="font-second text-4xl space-x-4 text-second"><span>nlp</span><span>–</span><span>data science</span><span>–</span><span>software engineering</span></h4>    
             </div> 
             <div class="w-72 h-72 overflow-hidden relative rounded-full">
-                <img src="src/lib/images/9-2F1A7637.jpg" alt="Johannes Gabriel Sindlinger" class="w-full h-full object-cover object-top transform scale-150 -translate-y-6">
+                <img src={img} alt="Johannes Gabriel Sindlinger" class="w-full h-full object-cover object-top transform scale-150 -translate-y-6">
             </div>
         </div>
         {/if}

@@ -12,7 +12,7 @@ Some people call me Johannes, some call me Gabriel – so choose your preferred 
 
 ## 🚀 Technologies & Tools
 - **Programming Languages**: Python, Java, JavaScript/TypeScript, SQL
-- **Frameworks & Tools**: Micronaut, Spring Boot, Vue.js, Svelte, Docker, Qdrant, LangChain
+- **Frameworks & Tools**: Micronaut, Spring Boot, Vue.js, Svelte, Docker, Qdrant, LangChain, PyTorch
 - **Other Skills**: Data Analysis, Software Development, Full-Stack Development
 
 ## 🔗 Connect with Me

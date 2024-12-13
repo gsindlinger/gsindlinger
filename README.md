@@ -13,7 +13,7 @@ Some people call me Johannes, some call me Gabriel – so choose your preferred 
 ## 🚀 Technologies & Tools
 - **Programming Languages**: Python, Java, JavaScript/TypeScript, SQL
 - **Frameworks & Tools**: Micronaut, Spring Boot, Vue.js, Svelte, Docker, Qdrant, LangChain, PyTorch
-- **Other Skills**: Data Analysis, Software Development, Full-Stack Development
+- **Skills**: Natural Language Processing, Retrieval Augmented Generation, Data Analytics, Software Engineering
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-sindlinger)
